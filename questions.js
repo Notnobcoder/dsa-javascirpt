@@ -10,3 +10,6 @@
 // --var names=["tushar", "vishal", "didi"]''
 // --var valuetofind = "vishal";
 // --var position = valuetofind.indexOf(valuetofind);
+// conveting string to an array
+// -- by two methord array.join() and array.toString();
+//
