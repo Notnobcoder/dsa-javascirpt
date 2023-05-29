@@ -16,4 +16,3 @@
 // allows you to modify the content of an array without refrencing the individual element
 // ---push and pop the element from the array
 // adding and removing the element in the middle of the array
-//
